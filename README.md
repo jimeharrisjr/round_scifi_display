@@ -4,14 +4,20 @@ This repo is a reference for building your own adjustable-arm retro-Sci-Fi displ
 ![](front.jpg)
 
 The materials I used in this project were:
-[Wisecoco 5" display with HDMI board](https://www.aliexpress.com/item/3256801507842352.html?spm=a2g0o.order_list.0.0.6e311802opfGCY&gatewayAdapt=4itemAdapt)
+- [Wisecoco 5" display with HDMI board](https://www.aliexpress.com/item/3256801507842352.html?spm=a2g0o.order_list.0.0.6e311802opfGCY&gatewayAdapt=4itemAdapt)
 *Note:* you can buy the display and HDMI board separately, but the holes in the STL are for this one
-[Obudyard Goosneck Desk Mount Arm](https://www.amazon.com/gp/product/B09V14Q92X)
-3 M4x20 screws and nuts
-4 2mm screws for attaching the HDMI board
-Mini-HDMI to HDMI cable
-USB-A-to-Micro-B cable for power
-twist-tie
+
+- [Obudyard Goosneck Desk Mount Arm](https://www.amazon.com/gp/product/B09V14Q92X)
+
+- 3 M4x20 screws and nuts
+
+- 4 2mm screws for attaching the HDMI board
+
+- Mini-HDMI to HDMI cable
+
+- USB-A-to-Micro-B cable for power
+
+- twist-tie
 
 ## Assembly
 Print the three STL files with high resolution (or you'll have to drill the screw holes out, likely).
